@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Torta de Chocolate",
+        "description": "Este es Torta de Chocolate",
+        "price": 100,
+        "thumbnail": "Sin imagen",
+        "code": "torta1",
+        "stock": 25,
+        "id": 1
+    },
+    {
+        "title": "Torta Red Velvet",
+        "description": "Este Torta Red Velvet",
+        "price": 200,
+        "thumbnail": "Sin imagen",
+        "code": "torta2",
+        "stock": 25,
+        "id": 2
+    },
+    {
+        "title": "Torta de Oreo",
+        "description": "Este es Torta de Oreo",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "torta3",
+        "stock": 25,
+        "id": 3
+    },
+    {
+        "title": "Torta de Vainilla",
+        "description": "Este es Torta de Vainilla",
+        "price": 400,
+        "thumbnail": "Sin imagen",
+        "code": "torta4",
+        "stock": 25,
+        "id": 4
+    },
+    {
+        "title": "Torta de Frutilla",
+        "description": "Este es Torta de Frutilla",
+        "price": 500,
+        "thumbnail": "Sin imagen",
+        "code": "torta5",
+        "stock": 25,
+        "id": 5
+    },
+    {
+        "title": "ChocoTorta",
+        "description": "Este es ChocoTorta",
+        "price": 600,
+        "thumbnail": "Sin imagen",
+        "code": "torta6",
+        "stock": 25,
+        "id": 6
+    },
+    {
+        "title": "Torta de Naranja",
+        "description": "Este es Torta de Naranja",
+        "price": 700,
+        "thumbnail": "Sin imagen",
+        "code": "torta7",
+        "stock": 25,
+        "id": 7
+    },
+    {
+        "title": "Torta de Mandarina",
+        "description": "Este es Torta de Mandarina",
+        "price": 800,
+        "thumbnail": "Sin imagen",
+        "code": "torta8",
+        "stock": 25,
+        "id": 8
+    },
+    {
+        "title": "Torta de Anana",
+        "description": "Este es un producto prueba",
+        "price": 900,
+        "thumbnail": "Sin imagen",
+        "code": "torta9",
+        "stock": 25,
+        "id": 9
+    },
+    {
+        "title": "Strudel de Manzana",
+        "description": "Este es Strudel de Manzana",
+        "price": 1000,
+        "thumbnail": "Sin imagen",
+        "code": "torta10",
+        "stock": 25,
+        "id": 10
+    }
+]
